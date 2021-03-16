@@ -9,3 +9,18 @@ CREATE TABLE draft(
 	pick INT NOT NULL
 	
 );
+
+CREATE TABLE finals_roster (
+	No INT,
+	Player TEXT,	
+	Pos	TEXT,
+	Ht TEXT,
+	Wt INT,
+	Birth_Date TEXT,
+	Nationality	TEXT,
+	Exp	TEXT,
+	College	TEXT,
+	Year INT,
+	Team TEXT,
+	Result TEXT
+);
