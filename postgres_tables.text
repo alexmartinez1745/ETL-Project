@@ -10,17 +10,16 @@ CREATE TABLE draft(
 	
 );
 
-CREATE TABLE finals_roster (
-	No INT,
-	Player TEXT,	
-	Pos	TEXT,
-	Ht TEXT,
-	Wt INT,
-	Birth_Date TEXT,
-	Nationality	TEXT,
-	Exp	TEXT,
-	College	TEXT,
-	Year INT,
-	Team TEXT,
-	Result TEXT
+CREATE TABLE finals_roster(
+	no INT,
+	player VARCHAR,	
+	pos	VARCHAR,
+	wt INT,
+	birth_date VARCHAR,
+	nationality	VARCHAR,
+	exp	VARCHAR,
+	college	VARCHAR,
+	year INT,
+	team VARCHAR,
+	result VARCHAR
 );

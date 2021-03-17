@@ -1,371 +1,371 @@
-,no,player,pos,wt,birth_date,nationality,exp,college,year,team,result
-0,17,Brent Barry,SG,185,31-Dec-71,us,9,Oregon State,2005,SAS,win
-1,12,Bruce Bowen,SF,185,14-Jun-71,us,8,Cal State Fullerton,2005,SAS,win
-2,23,Devin Brown,SG,220,30-Dec-78,us,2,Texas-San Antonio,2005,SAS,win
-3,21,Tim Duncan,PF,250,25-Apr-76,vi,7,Wake Forest,2005,SAS,win
-4,20,Manu Ginóbili,SG,205,28-Jul-77,ar,2,,2005,SAS,win
-5,1,Dion Glover,SG,228,22-Oct-78,us,5,Georgia Tech,2005,SAS,win
-6,5,Robert Horry,PF,240,25-Aug-70,us,12,Alabama,2005,SAS,win
-7,43,Linton Johnson,SF,205,13-Jun-80,us,1,Tulane,2005,SAS,win
-8,4,Sean Marks,PF,250,23-Aug-75,nz,4,California,2005,SAS,win
-9,34,Tony Massenburg,PF,220,31-Jul-67,us,12,Maryland,2005,SAS,win
-10,2,Nazr Mohammed,C,221,5-Sep-77,us,6,Kentucky,2005,SAS,win
-11,8,Rasho Nesterović,C,248,30-May-76,si,6,,2005,SAS,win
-12,9,Tony Parker,PG,185,17-May-82,be,3,,2005,SAS,win
-13,3,Glenn Robinson,SF,225,10-Jan-73,us,10,Purdue,2005,SAS,win
-14,31,Malik Rose,PF,250,23-Nov-74,us,8,Drexel,2005,SAS,win
-15,14,Beno Udrih,PG,205,5-Jul-82,si,R,,2005,SAS,win
-16,11,Mike Wilks,PG,185,7-May-79,us,2,Rice University,2005,SAS,win
-17,5,Derek Anderson,SG,194,18-Jul-74,us,8,"Ohio State, Kentucky",2006,MIA,win
-18,49,Shandon Anderson,SF,208,31-Dec-73,us,9,Georgia,2006,MIA,win
-19,30,Earl Barron,C,250,14-Aug-81,us,R,Memphis,2006,MIA,win
-20,51,Michael Doleac,C,262,15-Jun-77,us,7,Utah,2006,MIA,win
-21,4,Gerald Fitch,PG,188,12-Aug-82,us,R,Kentucky,2006,MIA,win
-22,40,Udonis Haslem,PF,235,9-Jun-80,us,2,Florida,2006,MIA,win
-23,24,Jason Kapono,SF,213,4-Feb-81,us,2,UCLA,2006,MIA,win
-24,33,Alonzo Mourning,C,240,8-Feb-70,us,12,Georgetown,2006,MIA,win
-25,32,Shaquille O'Neal,C,325,6-Mar-72,us,13,LSU,2006,MIA,win
-26,20,Gary Payton,PG,180,23-Jul-68,us,15,Oregon State,2006,MIA,win
-27,42,James Posey,SF,215,13-Jan-77,us,6,Xavier,2006,MIA,win
-28,25,Wayne Simien,PF,255,9-Mar-83,us,R,Kansas,2006,MIA,win
-29,3,Dwyane Wade,SG,220,17-Jan-82,us,2,Marquette,2006,MIA,win
-30,8,Antoine Walker,PF,224,12-Aug-76,us,9,Kentucky,2006,MIA,win
-31,44,Matt Walsh,SG,205,2-Dec-82,us,R,Florida,2006,MIA,win
-32,55,Jason Williams,PG,190,18-Nov-75,us,7,"Marshall, Florida",2006,MIA,win
-33,1,Dorell Wright,SF,205,2-Dec-85,us,1,,2006,MIA,win
-34,17,Brent Barry,SG,185,31-Dec-71,us,11,Oregon State,2007,SAS,win
-35,15,Matt Bonner,PF,235,5-Apr-80,us,2,Florida,2007,SAS,win
-36,12,Bruce Bowen,SF,185,14-Jun-71,us,10,Cal State Fullerton,2007,SAS,win
-37,45,Jackie Butler,C,250,10-Mar-85,us,2,,2007,SAS,win
-38,21,Tim Duncan,C,250,25-Apr-76,vi,9,Wake Forest,2007,SAS,win
-39,16,Francisco Elson,C,235,28-Feb-76,nl,3,California,2007,SAS,win
-40,2,Melvin Ely,C,260,2-May-78,us,4,Fresno State,2007,SAS,win
-41,4,Michael Finley,SF,215,6-Mar-73,us,11,Wisconsin,2007,SAS,win
-42,20,Manu Ginóbili,SG,205,28-Jul-77,ar,4,,2007,SAS,win
-43,5,Robert Horry,PF,240,25-Aug-70,us,14,Alabama,2007,SAS,win
-44,7,Fabricio Oberto,C,245,21-Mar-75,ar,1,,2007,SAS,win
-45,9,Tony Parker,PG,185,17-May-82,be,5,,2007,SAS,win
-46,14,Beno Udrih,PG,205,5-Jul-82,si,2,,2007,SAS,win
-47,11,Jacque Vaughn,PG,190,11-Feb-75,us,9,Kansas,2007,SAS,win
-48,33,James White,SG,200,21-Oct-82,us,R,"Florida, Cincinnati",2007,SAS,win
-49,55,Eric Williams,SF,220,17-Jul-72,us,11,Providence,2007,SAS,win
-50,20,Ray Allen,SG,205,20-Jul-75,us,11,UConn,2008,BOS,win
-51,42,Tony Allen,SG,213,11-Jan-82,us,3,"Butler County Community College, Oklahoma State",2008,BOS,win
-52,93,P.J. Brown,PF,225,14-Oct-69,us,14,Louisiana Tech,2008,BOS,win
-53,28,Sam Cassell,PG,185,18-Nov-69,us,14,Florida State,2008,BOS,win
-54,11,Glen Davis,C,289,1-Jan-86,us,R,LSU,2008,BOS,win
-55,5,Kevin Garnett,PF,240,19-May-76,us,12,,2008,BOS,win
-56,50,Eddie House,PG,180,14-May-78,us,7,Arizona State,2008,BOS,win
-57,43,Kendrick Perkins,C,270,10-Nov-84,us,4,,2008,BOS,win
-58,34,Paul Pierce,SF,235,13-Oct-77,us,9,Kansas,2008,BOS,win
-59,66,Scot Pollard,C,265,12-Feb-75,us,10,Kansas,2008,BOS,win
-60,41,James Posey,PF,215,13-Jan-77,us,8,Xavier,2008,BOS,win
-61,0,Leon Powe,C,240,22-Jan-84,us,1,California,2008,BOS,win
-62,13,Gabe Pruitt,PG,170,19-Apr-86,us,R,USC,2008,BOS,win
-63,9,Rajon Rondo,PG,180,22-Feb-86,us,1,Kentucky,2008,BOS,win
-64,44,Brian Scalabrine,PF,241,18-Mar-78,us,6,USC,2008,BOS,win
-65,3,Trevor Ariza,SF,215,30-Jun-85,us,4,UCLA,2009,LAL,win
-66,12,Shannon Brown,SG,205,29-Nov-85,us,2,Michigan State,2009,LAL,win
-67,24,Kobe Bryant,SG,212,23-Aug-78,us,12,,2009,LAL,win
-68,17,Andrew Bynum,C,285,27-Oct-87,us,3,,2009,LAL,win
-69,5,Jordan Farmar,PG,180,30-Nov-86,us,2,UCLA,2009,LAL,win
-70,2,Derek Fisher,PG,200,9-Aug-74,us,12,Little Rock,2009,LAL,win
-71,16,Pau Gasol,C,250,6-Jul-80,es,7,,2009,LAL,win
-72,28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,4,,2009,LAL,win
-73,31,Chris Mihm,C,265,16-Jul-79,us,7,Texas,2009,LAL,win
-74,6,Adam Morrison,SF,205,19-Jul-84,us,1,Gonzaga,2009,LAL,win
-75,7,Lamar Odom,PF,220,6-Nov-79,us,9,Rhode Island,2009,LAL,win
-76,21,Josh Powell,PF,225,25-Jan-83,us,3,NC State,2009,LAL,win
-77,10,Vladimir Radmanović,SF,227,19-Nov-80,ba,7,,2009,LAL,win
-78,18,Sasha Vujačić,SG,195,8-Mar-84,si,4,,2009,LAL,win
-79,4,Luke Walton,SF,235,28-Mar-80,us,5,Arizona,2009,LAL,win
-80,9,Sun Yue,SG,205,6-Nov-85,cn,R,,2009,LAL,win
-81,12,Shannon Brown,SG,205,29-Nov-85,us,3,Michigan State,2010,LAL,win
-82,24,Kobe Bryant,SG,212,23-Aug-78,us,13,,2010,LAL,win
-83,17,Andrew Bynum,C,285,27-Oct-87,us,4,,2010,LAL,win
-84,1,Jordan Farmar,PG,180,30-Nov-86,us,3,UCLA,2010,LAL,win
-85,2,Derek Fisher,PG,200,9-Aug-74,us,13,Little Rock,2010,LAL,win
-86,16,Pau Gasol,C,250,6-Jul-80,es,8,,2010,LAL,win
-87,28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,5,,2010,LAL,win
-88,6,Adam Morrison,SF,205,19-Jul-84,us,2,Gonzaga,2010,LAL,win
-89,7,Lamar Odom,PF,220,6-Nov-79,us,10,Rhode Island,2010,LAL,win
-90,21,Josh Powell,PF,225,25-Jan-83,us,4,NC State,2010,LAL,win
-91,18,Sasha Vujačić,SG,195,8-Mar-84,si,5,,2010,LAL,win
-92,4,Luke Walton,SF,235,28-Mar-80,us,6,Arizona,2010,LAL,win
-93,37,Metta World Peace,SF,260,13-Nov-79,us,10,St. John's,2010,LAL,win
-94,8,Alexis Ajinça,C,248,6-May-88,fr,2,,2011,DAL,win
-95,11,J.J. Barea,PG,180,26-Jun-84,pr,4,Northeastern University,2011,DAL,win
-96,3,Rodrigue Beaubois,PG,170,24-Feb-88,gp,1,,2011,DAL,win
-97,13,Corey Brewer,SG,186,5-Mar-86,us,3,Florida,2011,DAL,win
-98,4,Caron Butler,SF,228,13-Mar-80,us,8,UConn,2011,DAL,win
-99,35,Brian Cardinal,SF,245,2-May-77,us,10,Purdue,2011,DAL,win
-100,6,Tyson Chandler,C,235,2-Oct-82,us,9,,2011,DAL,win
-101,33,Brendan Haywood,C,268,27-Nov-79,us,9,UNC,2011,DAL,win
-102,20,Dominique Jones,SG,215,15-Oct-88,us,R,South Florida,2011,DAL,win
-103,2,Jason Kidd,PG,205,23-Mar-73,us,16,California,2011,DAL,win
-104,28,Ian Mahinmi,C,262,5-Nov-86,fr,2,,2011,DAL,win
-105,0,Shawn Marion,SF,220,7-May-78,us,11,UNLV,2011,DAL,win
-106,21,Steve Novak,SF,225,13-Jun-83,us,4,Marquette,2011,DAL,win
-107,41,Dirk Nowitzki,PF,245,19-Jun-78,de,12,,2011,DAL,win
-108,7,Sasha Pavlović,SF,220,15-Nov-83,me,7,,2011,DAL,win
-109,92,DeShawn Stevenson,SG,210,3-Apr-81,us,10,,2011,DAL,win
-110,16,Peja Stojaković,SF,229,9-Jun-77,hr,12,,2011,DAL,win
-111,31,Jason Terry,SG,185,15-Sep-77,us,11,Arizona,2011,DAL,win
-112,50,Joel Anthony,C,245,9-Aug-82,ca,4,UNLV,2012,MIA,win
-113,31,Shane Battier,SF,220,9-Sep-78,us,10,Duke,2012,MIA,win
-114,1,Chris Bosh,PF,235,24-Mar-84,us,8,Georgia Tech,2012,MIA,win
-115,15,Mario Chalmers,PG,190,19-May-86,us,3,Kansas,2012,MIA,win
-116,30,Norris Cole,PG,175,13-Oct-88,us,R,Cleveland State University,2012,MIA,win
-117,34,Eddy Curry,C,295,5-Dec-82,us,9,,2012,MIA,win
-118,32,Mickell Gladness,PF,220,26-Jul-86,us,R,Alabama A&M University,2012,MIA,win
-119,14,Terrel Harris,SG,190,10-Aug-87,us,R,Oklahoma State,2012,MIA,win
-120,40,Udonis Haslem,PF,235,9-Jun-80,us,8,Florida,2012,MIA,win
-121,5,Juwan Howard,PF,240,7-Feb-73,us,17,Michigan,2012,MIA,win
-122,6,LeBron James,SF,250,30-Dec-84,us,8,,2012,MIA,win
-123,22,James Jones,SG,218,4-Oct-80,us,8,Miami (FL),2012,MIA,win
-124,13,Mike Miller,SG,218,19-Feb-80,us,11,Florida,2012,MIA,win
-125,45,Dexter Pittman,C,308,2-Mar-88,us,1,Texas,2012,MIA,win
-126,21,Ronny Turiaf,C,249,13-Jan-83,mq,6,Gonzaga,2012,MIA,win
-127,3,Dwyane Wade,SG,220,17-Jan-82,us,8,Marquette,2012,MIA,win
-128,34,Ray Allen,SG,205,20-Jul-75,us,16,UConn,2013,MIA,win
-129,11,Chris Andersen,C,245,7-Jul-78,us,10,Blinn College,2013,MIA,win
-130,50,Joel Anthony,C,245,9-Aug-82,ca,5,UNLV,2013,MIA,win
-131,31,Shane Battier,SF,220,9-Sep-78,us,11,Duke,2013,MIA,win
-132,1,Chris Bosh,C,235,24-Mar-84,us,9,Georgia Tech,2013,MIA,win
-133,15,Mario Chalmers,PG,190,19-May-86,us,4,Kansas,2013,MIA,win
-134,30,Norris Cole,PG,175,13-Oct-88,us,1,Cleveland State University,2013,MIA,win
-135,55,Josh Harrellson,C,275,12-Feb-89,us,1,Kentucky,2013,MIA,win
-136,14,Terrel Harris,SG,190,10-Aug-87,us,1,Oklahoma State,2013,MIA,win
-137,40,Udonis Haslem,PF,235,9-Jun-80,us,9,Florida,2013,MIA,win
-138,5,Juwan Howard,PF,240,7-Feb-73,us,18,Michigan,2013,MIA,win
-139,6,LeBron James,PF,250,30-Dec-84,us,9,,2013,MIA,win
-140,22,James Jones,SF,218,4-Oct-80,us,9,Miami (FL),2013,MIA,win
-141,9,Rashard Lewis,PF,215,8-Aug-79,us,14,,2013,MIA,win
-142,13,Mike Miller,SF,218,19-Feb-80,us,12,Florida,2013,MIA,win
-143,45,Dexter Pittman,C,308,2-Mar-88,us,2,Texas,2013,MIA,win
-144,24,Jarvis Varnado,PF,230,1-Mar-88,us,R,Mississippi State,2013,MIA,win
-145,3,Dwyane Wade,SG,220,17-Jan-82,us,9,Marquette,2013,MIA,win
-146,11,Jeff Ayres,PF,240,29-Apr-87,us,3,Arizona State,2014,SAS,win
-147,16,Aron Baynes,C,260,9-Dec-86,nz,1,Washington State,2014,SAS,win
-148,3,Marco Belinelli,SF,220,25-Mar-86,it,6,,2014,SAS,win
-149,15,Matt Bonner,PF,235,5-Apr-80,us,9,Florida,2014,SAS,win
-150,1,Shannon Brown,SG,205,29-Nov-85,us,7,Michigan State,2014,SAS,win
-151,23,Austin Daye,SF,220,5-Jun-88,us,4,Gonzaga,2014,SAS,win
-152,25,Nando De Colo,SF,200,23-Jun-87,fr,1,,2014,SAS,win
-153,33,Boris Diaw,PF,250,16-Apr-82,fr,10,,2014,SAS,win
-154,21,Tim Duncan,C,250,25-Apr-76,vi,16,Wake Forest,2014,SAS,win
-155,20,Manu Ginóbili,SG,205,28-Jul-77,ar,11,,2014,SAS,win
-156,4,Danny Green,SG,215,22-Jun-87,us,4,UNC,2014,SAS,win
-157,7,Damion James,SF,225,7-Oct-87,us,3,Texas,2014,SAS,win
-158,7,Othyus Jeffers,SG,200,5-Aug-85,us,2,"University of Illinois at Chicago, Robert Morris University (IL)",2014,SAS,win
-159,5,Cory Joseph,SG,200,20-Aug-91,ca,2,Texas,2014,SAS,win
-160,2,Kawhi Leonard,SF,225,29-Jun-91,us,2,San Diego State,2014,SAS,win
-161,8,Patty Mills,PG,180,11-Aug-88,au,4,Saint Mary's,2014,SAS,win
-162,9,Tony Parker,PG,185,17-May-82,be,12,,2014,SAS,win
-163,22,Tiago Splitter,C,245,1-Jan-85,br,3,,2014,SAS,win
-164,24,Malcolm Thomas,PF,225,8-Nov-88,us,2,"Pepperdine, San Diego State",2014,SAS,win
-165,19,Leandro Barbosa,SG,194,28-Nov-82,br,11,,2015,GSW,win
-166,40,Harrison Barnes,SF,225,30-May-92,us,2,UNC,2015,GSW,win
-167,12,Andrew Bogut,C,260,28-Nov-84,au,9,Utah,2015,GSW,win
-168,30,Stephen Curry,PG,185,14-Mar-88,us,5,Davidson,2015,GSW,win
-169,31,Festus Ezeli,C,255,21-Oct-89,ng,1,Vanderbilt,2015,GSW,win
-170,23,Draymond Green,PF,230,4-Mar-90,us,2,Michigan State,2015,GSW,win
-171,7,Justin Holiday,SG,180,5-Apr-89,us,1,Washington,2015,GSW,win
-172,9,Andre Iguodala,SF,215,28-Jan-84,us,10,Arizona,2015,GSW,win
-173,1,Ognjen Kuzmić,C,251,16-May-90,ba,1,,2015,GSW,win
-174,10,David Lee,PF,245,29-Apr-83,us,9,Florida,2015,GSW,win
-175,34,Shaun Livingston,PG,192,11-Sep-85,us,9,,2015,GSW,win
-176,20,James Michael McAdoo,PF,230,4-Jan-93,us,R,UNC,2015,GSW,win
-177,4,Brandon Rush,SG,220,7-Jul-85,us,6,Kansas,2015,GSW,win
-178,5,Marreese Speights,C,255,4-Aug-87,us,6,Florida,2015,GSW,win
-179,11,Klay Thompson,SG,215,8-Feb-90,us,3,Washington State,2015,GSW,win
-180,30,Carlos Arroyo,PG,202,30-Jul-79,pr,3,Florida International University,2005,DET,lost
-181,1,Chauncey Billups,PG,202,25-Sep-76,us,7,Colorado,2005,DET,lost
-182,41,Elden Campbell,C,215,23-Jul-68,us,14,Clemson,2005,DET,lost
-183,44,Derrick Coleman,C,230,21-Jun-67,us,14,Syracuse,2005,DET,lost
-184,20,Carlos Delfino,SG,230,29-Aug-82,ar,R,,2005,DET,lost
-185,12,Ronald Dupree,SF,209,26-Jan-81,us,1,LSU,2005,DET,lost
-186,7,Anthony Goldwire,PG,182,6-Sep-71,us,6,Houston,2005,DET,lost
-187,8,Darvin Ham,SF,220,23-Jul-73,us,7,Texas Tech,2005,DET,lost
-188,32,Richard Hamilton,SG,185,14-Feb-78,us,5,UConn,2005,DET,lost
-189,10,Lindsey Hunter,SG,170,3-Dec-70,us,11,"Alcorn State, Jackson State University",2005,DET,lost
-190,5,Horace Jenkins,PG,180,14-Oct-74,us,R,William Paterson University,2005,DET,lost
-191,24,Antonio McDyess,PF,220,7-Sep-74,us,8,Alabama,2005,DET,lost
-192,31,Darko Miličić,C,250,20-Jun-85,rs,1,,2005,DET,lost
-193,7,Smush Parker,PG,190,1-Jun-81,us,1,Fordham,2005,DET,lost
-194,22,Tayshaun Prince,SF,212,28-Feb-80,us,2,Kentucky,2005,DET,lost
-195,3,Ben Wallace,C,240,10-Sep-74,us,8,Virginia Union University,2005,DET,lost
-196,36,Rasheed Wallace,PF,225,17-Sep-74,us,9,UNC,2005,DET,lost
-197,10,Darrell Armstrong,PG,170,22-Jun-68,us,11,Fayetteville State University,2006,DAL,lost
-198,13,Doug Christie,SG,200,9-May-70,us,13,Pepperdine,2006,DAL,lost
-199,25,Erick Dampier,C,265,14-Jul-75,us,9,Mississippi State,2006,DAL,lost
-200,6,Marquis Daniels,SG,200,7-Jan-81,us,2,Auburn,2006,DAL,lost
-201,7,DeSagana Diop,C,300,30-Jan-82,sn,4,,2006,DAL,lost
-202,44,Adrian Griffin,SG,217,4-Jul-74,us,6,Seton Hall,2006,DAL,lost
-203,34,Devin Harris,PG,185,27-Feb-83,us,1,Wisconsin,2006,DAL,lost
-204,5,Josh Howard,SF,210,28-Apr-80,us,2,Wake Forest,2006,DAL,lost
-205,28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,1,,2006,DAL,lost
-206,1,Rawle Marshall,SF,190,20-Feb-82,gy,R,"Ball State University, Oakland",2006,DAL,lost
-207,41,Dirk Nowitzki,PF,245,19-Jun-78,de,7,,2006,DAL,lost
-208,24,Pavel Podkolzin,C,260,15-Jan-85,ru,1,,2006,DAL,lost
-209,33,Josh Powell,PF,225,25-Jan-83,us,R,NC State,2006,DAL,lost
-210,42,Jerry Stackhouse,SG,218,5-Nov-74,us,10,UNC,2006,DAL,lost
-211,31,Jason Terry,PG,185,15-Sep-77,us,6,Arizona,2006,DAL,lost
-212,2,Keith Van Horn,SF,220,23-Oct-75,us,8,Utah,2006,DAL,lost
-213,6,Shannon Brown,SG,205,29-Nov-85,us,R,Michigan State,2007,CLE,lost
-214,1,Daniel Gibson,PG,190,27-Feb-86,us,R,Texas,2007,CLE,lost
-215,90,Drew Gooden,PF,250,24-Sep-81,us,4,Kansas,2007,CLE,lost
-216,32,Larry Hughes,SG,184,23-Jan-79,us,8,Saint Louis,2007,CLE,lost
-217,11,Zydrunas Ilgauskas,C,238,5-Jun-75,lt,8,,2007,CLE,lost
-218,23,LeBron James,SF,250,30-Dec-84,us,3,,2007,CLE,lost
-219,19,Damon Jones,PG,185,25-Aug-76,us,8,Houston,2007,CLE,lost
-220,27,Dwayne Jones,PF,250,9-Jun-83,us,1,Saint Joseph's,2007,CLE,lost
-221,24,Donyell Marshall,PF,218,18-May-73,us,12,UConn,2007,CLE,lost
-222,14,Ira Newble,SF,220,20-Jan-75,us,6,Miami University,2007,CLE,lost
-223,3,Sasha Pavlović,SG,220,15-Nov-83,me,3,,2007,CLE,lost
-224,31,Scot Pollard,C,265,12-Feb-75,us,9,Kansas,2007,CLE,lost
-225,20,Eric Snow,PG,190,24-Apr-73,us,11,Michigan State,2007,CLE,lost
-226,17,Anderson Varejão,C,273,28-Sep-82,br,2,,2007,CLE,lost
-227,4,David Wesley,SG,190,14-Nov-70,us,13,Baylor,2007,CLE,lost
-228,3,Trevor Ariza,SF,215,30-Jun-85,us,3,UCLA,2008,LAL,lost
-229,54,Kwame Brown,C,270,10-Mar-82,us,6,,2008,LAL,lost
-230,24,Kobe Bryant,SG,212,23-Aug-78,us,11,,2008,LAL,lost
-231,17,Andrew Bynum,C,285,27-Oct-87,us,2,,2008,LAL,lost
-232,43,Brian Cook,PF,234,4-Dec-80,us,4,Illinois,2008,LAL,lost
-233,1,Javaris Crittenton,SG,200,31-Dec-87,us,R,Georgia Tech,2008,LAL,lost
-234,6,Maurice Evans,SG,220,8-Nov-78,us,4,"Wichita State, Texas",2008,LAL,lost
-235,5,Jordan Farmar,PG,180,30-Nov-86,us,1,UCLA,2008,LAL,lost
-236,2,Derek Fisher,PG,200,9-Aug-74,us,11,Little Rock,2008,LAL,lost
-237,16,Pau Gasol,C,250,6-Jul-80,es,6,,2008,LAL,lost
-238,28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,3,,2008,LAL,lost
-239,11,Coby Karl,SG,215,6-Mar-83,us,R,Boise State,2008,LAL,lost
-240,31,Chris Mihm,C,265,16-Jul-79,us,6,Texas,2008,LAL,lost
-241,14,Ira Newble,SF,220,20-Jan-75,us,7,Miami University,2008,LAL,lost
-242,7,Lamar Odom,PF,220,6-Nov-79,us,8,Rhode Island,2008,LAL,lost
-243,10,Vladimir Radmanović,SF,227,19-Nov-80,ba,6,,2008,LAL,lost
-244,21,Ronny Turiaf,C,249,13-Jan-83,mq,2,Gonzaga,2008,LAL,lost
-245,18,Sasha Vujačić,SG,195,8-Mar-84,si,3,,2008,LAL,lost
-246,4,Luke Walton,SF,235,28-Mar-80,us,4,Arizona,2008,LAL,lost
-247,1,Rafer Alston,PG,171,24-Jul-76,us,9,Fresno State,2009,ORL,lost
-248,4,Tony Battie,PF,230,11-Feb-76,us,10,Texas Tech,2009,ORL,lost
-249,10,Keith Bogans,SG,215,12-May-80,us,5,Kentucky,2009,ORL,lost
-250,34,Brian Cook,PF,234,4-Dec-80,us,5,Illinois,2009,ORL,lost
-251,31,Adonal Foyle,C,250,9-Mar-75,vc,11,Colgate,2009,ORL,lost
-252,13,Marcin Gortat,PF,240,17-Feb-84,pl,1,,2009,ORL,lost
-253,12,Dwight Howard,C,265,8-Dec-85,us,4,,2009,ORL,lost
-254,8,Anthony Johnson,PG,190,2-Oct-74,us,11,College of Charleston,2009,ORL,lost
-255,11,Courtney Lee,SG,215,3-Oct-85,us,R,Western Kentucky,2009,ORL,lost
-256,9,Rashard Lewis,PF,215,8-Aug-79,us,10,,2009,ORL,lost
-257,10,Tyronn Lue,PG,175,3-May-77,us,10,Nebraska,2009,ORL,lost
-258,14,Jameer Nelson,PG,190,9-Feb-82,us,4,Saint Joseph's,2009,ORL,lost
-259,20,Mickaël Piétrus,SG,215,7-Feb-82,gp,5,,2009,ORL,lost
-260,7,J.J. Redick,SG,200,24-Jun-84,us,2,Duke,2009,ORL,lost
-261,32,Jeremy Richardson,SF,185,11-Feb-84,us,2,Delta State University,2009,ORL,lost
-262,15,Hedo Türkoğlu,SF,220,19-Mar-79,tr,8,,2009,ORL,lost
-263,20,Ray Allen,SG,205,20-Jul-75,us,13,UConn,2010,BOS,lost
-264,42,Tony Allen,SG,213,11-Jan-82,us,5,"Butler County Community College, Oklahoma State",2010,BOS,lost
-265,7,Marquis Daniels,SF,200,7-Jan-81,us,6,Auburn,2010,BOS,lost
-266,11,Glen Davis,PF,289,1-Jan-86,us,2,LSU,2010,BOS,lost
-267,40,Michael Finley,SF,215,6-Mar-73,us,14,Wisconsin,2010,BOS,lost
-268,5,Kevin Garnett,PF,240,19-May-76,us,14,,2010,BOS,lost
-269,4,J.R. Giddens,SF,215,13-Feb-85,us,1,"Kansas, New Mexico",2010,BOS,lost
-270,50,Eddie House,PG,180,14-May-78,us,9,Arizona State,2010,BOS,lost
-271,26,Lester Hudson,PG,190,7-Aug-84,us,R,University of Tennessee at Martin,2010,BOS,lost
-272,40,Oliver Lafayette,SG,190,6-May-84,us,R,Houston,2010,BOS,lost
-273,12,Marcus Landry,SF,230,1-Nov-85,us,R,Wisconsin,2010,BOS,lost
-274,43,Kendrick Perkins,C,270,10-Nov-84,us,6,,2010,BOS,lost
-275,34,Paul Pierce,SF,235,13-Oct-77,us,11,Kansas,2010,BOS,lost
-276,4,Nate Robinson,PG,180,31-May-84,us,4,Washington,2010,BOS,lost
-277,9,Rajon Rondo,PG,180,22-Feb-86,us,3,Kentucky,2010,BOS,lost
-278,44,Brian Scalabrine,PF,241,18-Mar-78,us,8,USC,2010,BOS,lost
-279,12,Henry Walker,SF,220,9-Oct-87,us,1,Kansas State,2010,BOS,lost
-280,30,Rasheed Wallace,C,225,17-Sep-74,us,14,UNC,2010,BOS,lost
-281,13,Shelden Williams,PF,250,21-Oct-83,us,3,Duke,2010,BOS,lost
-282,50,Joel Anthony,C,245,9-Aug-82,ca,3,UNLV,2011,MIA,lost
-283,8,Carlos Arroyo,PG,202,30-Jul-79,pr,8,Florida International University,2011,MIA,lost
-284,0,Mike Bibby,PG,190,13-May-78,us,12,Arizona,2011,MIA,lost
-285,1,Chris Bosh,PF,235,24-Mar-84,us,7,Georgia Tech,2011,MIA,lost
-286,15,Mario Chalmers,PG,190,19-May-86,us,2,Kansas,2011,MIA,lost
-287,25,Erick Dampier,C,265,14-Jul-75,us,14,Mississippi State,2011,MIA,lost
-288,40,Udonis Haslem,PF,235,9-Jun-80,us,7,Florida,2011,MIA,lost
-289,55,Eddie House,SG,180,14-May-78,us,10,Arizona State,2011,MIA,lost
-290,5,Juwan Howard,PF,240,7-Feb-73,us,16,Michigan,2011,MIA,lost
-291,11,Zydrunas Ilgauskas,C,238,5-Jun-75,lt,12,,2011,MIA,lost
-292,6,LeBron James,SF,250,30-Dec-84,us,7,,2011,MIA,lost
-293,22,James Jones,SF,218,4-Oct-80,us,7,Miami (FL),2011,MIA,lost
-294,21,Jamaal Magloire,C,259,21-May-78,ca,10,Kentucky,2011,MIA,lost
-295,13,Mike Miller,SG,218,19-Feb-80,us,10,Florida,2011,MIA,lost
-296,45,Dexter Pittman,C,308,2-Mar-88,us,R,Texas,2011,MIA,lost
-297,42,Jerry Stackhouse,SG,218,5-Nov-74,us,15,UNC,2011,MIA,lost
-298,3,Dwyane Wade,SG,220,17-Jan-82,us,7,Marquette,2011,MIA,lost
-299,45,Cole Aldrich,C,250,31-Oct-88,us,1,Kansas,2012,OKC,lost
-300,4,Nick Collison,PF,255,26-Oct-80,us,7,Kansas,2012,OKC,lost
-301,14,Daequan Cook,SG,205,28-Apr-87,us,4,Ohio State,2012,OKC,lost
-302,35,Kevin Durant,SF,240,29-Sep-88,us,4,Texas,2012,OKC,lost
-303,37,Derek Fisher,PG,200,9-Aug-74,us,15,Little Rock,2012,OKC,lost
-304,13,James Harden,SG,220,26-Aug-89,us,2,Arizona State,2012,OKC,lost
-305,11,Lazar Hayward,SF,225,26-Nov-86,us,1,Marquette,2012,OKC,lost
-306,9,Serge Ibaka,PF,235,18-Sep-89,cg,2,,2012,OKC,lost
-307,7,Royal Ivey,SG,200,20-Dec-81,us,7,Texas,2012,OKC,lost
-308,15,Reggie Jackson,PG,208,16-Apr-90,it,R,Boston College,2012,OKC,lost
-309,6,Eric Maynor,PG,175,11-Jun-87,us,2,VCU,2012,OKC,lost
-310,8,Nazr Mohammed,C,221,5-Sep-77,us,13,Kentucky,2012,OKC,lost
-311,5,Kendrick Perkins,C,270,10-Nov-84,us,8,,2012,OKC,lost
-312,33,Ryan Reid,PF,232,30-Oct-86,us,R,Florida State,2012,OKC,lost
-313,2,Thabo Sefolosha,SG,215,2-May-84,ch,5,,2012,OKC,lost
-314,0,Russell Westbrook,PG,200,12-Nov-88,us,3,UCLA,2012,OKC,lost
-315,11,James Anderson,SF,213,25-Mar-89,us,2,Oklahoma State,2013,SAS,lost
-316,16,Aron Baynes,C,260,9-Dec-86,nz,R,Washington State,2013,SAS,lost
-317,45,DeJuan Blair,PF,270,22-Apr-89,us,3,Pitt,2013,SAS,lost
-318,15,Matt Bonner,PF,235,5-Apr-80,us,8,Florida,2013,SAS,lost
-319,25,Nando De Colo,SG,200,23-Jun-87,fr,R,,2013,SAS,lost
-320,33,Boris Diaw,PF,250,16-Apr-82,fr,9,,2013,SAS,lost
-321,21,Tim Duncan,C,250,25-Apr-76,vi,15,Wake Forest,2013,SAS,lost
-322,20,Manu Ginóbili,SG,205,28-Jul-77,ar,10,,2013,SAS,lost
-323,4,Danny Green,SG,215,22-Jun-87,us,3,UNC,2013,SAS,lost
-324,3,Stephen Jackson,SF,218,5-Apr-78,us,12,Butler County Community College,2013,SAS,lost
-325,5,Cory Joseph,PG,200,20-Aug-91,ca,1,Texas,2013,SAS,lost
-326,2,Kawhi Leonard,SF,225,29-Jun-91,us,1,San Diego State,2013,SAS,lost
-327,1,Tracy McGrady,SF,210,24-May-79,us,15,,2013,SAS,lost
-328,8,Patty Mills,PG,180,11-Aug-88,au,3,Saint Mary's,2013,SAS,lost
-329,14,Gary Neal,SG,210,3-Oct-84,us,2,"La Salle, Towson University",2013,SAS,lost
-330,9,Tony Parker,PG,185,17-May-82,be,11,,2013,SAS,lost
-331,22,Tiago Splitter,PF,245,1-Jan-85,br,2,,2013,SAS,lost
-332,34,Ray Allen,SG,205,20-Jul-75,us,17,UConn,2014,MIA,lost
-333,11,Chris Andersen,C,245,7-Jul-78,us,11,Blinn College,2014,MIA,lost
-334,50,Joel Anthony,C,245,9-Aug-82,ca,6,UNLV,2014,MIA,lost
-335,31,Shane Battier,SF,220,9-Sep-78,us,12,Duke,2014,MIA,lost
-336,8,Michael Beasley,SF,235,9-Jan-89,us,5,Kansas State,2014,MIA,lost
-337,1,Chris Bosh,C,235,24-Mar-84,us,10,Georgia Tech,2014,MIA,lost
-338,15,Mario Chalmers,PG,190,19-May-86,us,5,Kansas,2014,MIA,lost
-339,30,Norris Cole,PG,175,13-Oct-88,us,2,Cleveland State University,2014,MIA,lost
-340,0,Toney Douglas,PG,195,16-Mar-86,us,4,"Auburn, Florida State",2014,MIA,lost
-341,7,Justin Hamilton,C,260,1-Apr-90,us,R,"Iowa State, LSU",2014,MIA,lost
-342,40,Udonis Haslem,PF,235,9-Jun-80,us,10,Florida,2014,MIA,lost
-343,6,LeBron James,PF,250,30-Dec-84,us,10,,2014,MIA,lost
-344,22,James Jones,SF,218,4-Oct-80,us,10,Miami (FL),2014,MIA,lost
-345,9,Rashard Lewis,SF,215,8-Aug-79,us,15,,2014,MIA,lost
-346,14,DeAndre Liggins,SG,209,31-Mar-88,us,2,Kentucky,2014,MIA,lost
-347,21,Roger Mason,SG,200,10-Sep-80,us,9,Virginia,2014,MIA,lost
-348,20,Greg Oden,C,250,22-Jan-88,us,2,Ohio State,2014,MIA,lost
-349,3,Dwyane Wade,SG,220,17-Jan-82,us,10,Marquette,2014,MIA,lost
-350,89,Lou Amundson,PF,220,7-Dec-82,us,8,UNLV,2015,CLE,lost
-351,5,Will Cherry,PG,185,8-Feb-91,us,R,Montana,2015,CLE,lost
-352,8,Matthew Dellavedova,SG,200,8-Sep-90,au,1,Saint Mary's,2015,CLE,lost
-353,12,Joe Harris,SG,220,6-Sep-91,us,R,Virginia,2015,CLE,lost
-354,33,Brendan Haywood,C,268,27-Nov-79,us,12,UNC,2015,CLE,lost
-355,2,Kyrie Irving,PG,195,23-Mar-92,au,3,Duke,2015,CLE,lost
-356,23,LeBron James,SF,250,30-Dec-84,us,11,,2015,CLE,lost
-357,1,James Jones,SF,218,4-Oct-80,us,11,Miami (FL),2015,CLE,lost
-358,53,Alex Kirk,C,245,14-Nov-91,us,R,New Mexico,2015,CLE,lost
-359,0,Kevin Love,PF,251,7-Sep-88,us,6,UCLA,2015,CLE,lost
-360,31,Shawn Marion,SF,220,7-May-78,us,15,UNLV,2015,CLE,lost
-361,18,Mike Miller,SF,218,19-Feb-80,us,14,Florida,2015,CLE,lost
-362,20,Timofey Mozgov,C,275,16-Jul-86,ru,4,,2015,CLE,lost
-363,3,Kendrick Perkins,C,270,10-Nov-84,us,11,,2015,CLE,lost
-364,21,A.J. Price,PG,181,7-Oct-86,us,5,UConn,2015,CLE,lost
-365,4,Iman Shumpert,SG,215,26-Jun-90,us,3,Georgia Tech,2015,CLE,lost
-366,5,J.R. Smith,SG,225,9-Sep-85,us,10,,2015,CLE,lost
-367,13,Tristan Thompson,PF,254,13-Mar-91,ca,3,Texas,2015,CLE,lost
-368,17,Anderson Varejão,C,273,28-Sep-82,br,10,,2015,CLE,lost
-369,3,Dion Waiters,SG,215,10-Dec-91,us,2,Syracuse,2015,CLE,lost
+no,player,pos,wt,birth_date,nationality,exp,college,year,team,result
+17,Brent Barry,SG,185,31-Dec-71,us,9,Oregon State,2005,SAS,win
+12,Bruce Bowen,SF,185,14-Jun-71,us,8,Cal State Fullerton,2005,SAS,win
+23,Devin Brown,SG,220,30-Dec-78,us,2,Texas-San Antonio,2005,SAS,win
+21,Tim Duncan,PF,250,25-Apr-76,vi,7,Wake Forest,2005,SAS,win
+20,Manu Ginóbili,SG,205,28-Jul-77,ar,2,,2005,SAS,win
+1,Dion Glover,SG,228,22-Oct-78,us,5,Georgia Tech,2005,SAS,win
+5,Robert Horry,PF,240,25-Aug-70,us,12,Alabama,2005,SAS,win
+43,Linton Johnson,SF,205,13-Jun-80,us,1,Tulane,2005,SAS,win
+4,Sean Marks,PF,250,23-Aug-75,nz,4,California,2005,SAS,win
+34,Tony Massenburg,PF,220,31-Jul-67,us,12,Maryland,2005,SAS,win
+2,Nazr Mohammed,C,221,5-Sep-77,us,6,Kentucky,2005,SAS,win
+8,Rasho Nesterović,C,248,30-May-76,si,6,,2005,SAS,win
+9,Tony Parker,PG,185,17-May-82,be,3,,2005,SAS,win
+3,Glenn Robinson,SF,225,10-Jan-73,us,10,Purdue,2005,SAS,win
+31,Malik Rose,PF,250,23-Nov-74,us,8,Drexel,2005,SAS,win
+14,Beno Udrih,PG,205,5-Jul-82,si,R,,2005,SAS,win
+11,Mike Wilks,PG,185,7-May-79,us,2,Rice University,2005,SAS,win
+5,Derek Anderson,SG,194,18-Jul-74,us,8,"Ohio State, Kentucky",2006,MIA,win
+49,Shandon Anderson,SF,208,31-Dec-73,us,9,Georgia,2006,MIA,win
+30,Earl Barron,C,250,14-Aug-81,us,R,Memphis,2006,MIA,win
+51,Michael Doleac,C,262,15-Jun-77,us,7,Utah,2006,MIA,win
+4,Gerald Fitch,PG,188,12-Aug-82,us,R,Kentucky,2006,MIA,win
+40,Udonis Haslem,PF,235,9-Jun-80,us,2,Florida,2006,MIA,win
+24,Jason Kapono,SF,213,4-Feb-81,us,2,UCLA,2006,MIA,win
+33,Alonzo Mourning,C,240,8-Feb-70,us,12,Georgetown,2006,MIA,win
+32,Shaquille O'Neal,C,325,6-Mar-72,us,13,LSU,2006,MIA,win
+20,Gary Payton,PG,180,23-Jul-68,us,15,Oregon State,2006,MIA,win
+42,James Posey,SF,215,13-Jan-77,us,6,Xavier,2006,MIA,win
+25,Wayne Simien,PF,255,9-Mar-83,us,R,Kansas,2006,MIA,win
+3,Dwyane Wade,SG,220,17-Jan-82,us,2,Marquette,2006,MIA,win
+8,Antoine Walker,PF,224,12-Aug-76,us,9,Kentucky,2006,MIA,win
+44,Matt Walsh,SG,205,2-Dec-82,us,R,Florida,2006,MIA,win
+55,Jason Williams,PG,190,18-Nov-75,us,7,"Marshall, Florida",2006,MIA,win
+1,Dorell Wright,SF,205,2-Dec-85,us,1,,2006,MIA,win
+17,Brent Barry,SG,185,31-Dec-71,us,11,Oregon State,2007,SAS,win
+15,Matt Bonner,PF,235,5-Apr-80,us,2,Florida,2007,SAS,win
+12,Bruce Bowen,SF,185,14-Jun-71,us,10,Cal State Fullerton,2007,SAS,win
+45,Jackie Butler,C,250,10-Mar-85,us,2,,2007,SAS,win
+21,Tim Duncan,C,250,25-Apr-76,vi,9,Wake Forest,2007,SAS,win
+16,Francisco Elson,C,235,28-Feb-76,nl,3,California,2007,SAS,win
+2,Melvin Ely,C,260,2-May-78,us,4,Fresno State,2007,SAS,win
+4,Michael Finley,SF,215,6-Mar-73,us,11,Wisconsin,2007,SAS,win
+20,Manu Ginóbili,SG,205,28-Jul-77,ar,4,,2007,SAS,win
+5,Robert Horry,PF,240,25-Aug-70,us,14,Alabama,2007,SAS,win
+7,Fabricio Oberto,C,245,21-Mar-75,ar,1,,2007,SAS,win
+9,Tony Parker,PG,185,17-May-82,be,5,,2007,SAS,win
+14,Beno Udrih,PG,205,5-Jul-82,si,2,,2007,SAS,win
+11,Jacque Vaughn,PG,190,11-Feb-75,us,9,Kansas,2007,SAS,win
+33,James White,SG,200,21-Oct-82,us,R,"Florida, Cincinnati",2007,SAS,win
+55,Eric Williams,SF,220,17-Jul-72,us,11,Providence,2007,SAS,win
+20,Ray Allen,SG,205,20-Jul-75,us,11,UConn,2008,BOS,win
+42,Tony Allen,SG,213,11-Jan-82,us,3,"Butler County Community College, Oklahoma State",2008,BOS,win
+93,P.J. Brown,PF,225,14-Oct-69,us,14,Louisiana Tech,2008,BOS,win
+28,Sam Cassell,PG,185,18-Nov-69,us,14,Florida State,2008,BOS,win
+11,Glen Davis,C,289,1-Jan-86,us,R,LSU,2008,BOS,win
+5,Kevin Garnett,PF,240,19-May-76,us,12,,2008,BOS,win
+50,Eddie House,PG,180,14-May-78,us,7,Arizona State,2008,BOS,win
+43,Kendrick Perkins,C,270,10-Nov-84,us,4,,2008,BOS,win
+34,Paul Pierce,SF,235,13-Oct-77,us,9,Kansas,2008,BOS,win
+66,Scot Pollard,C,265,12-Feb-75,us,10,Kansas,2008,BOS,win
+41,James Posey,PF,215,13-Jan-77,us,8,Xavier,2008,BOS,win
+0,Leon Powe,C,240,22-Jan-84,us,1,California,2008,BOS,win
+13,Gabe Pruitt,PG,170,19-Apr-86,us,R,USC,2008,BOS,win
+9,Rajon Rondo,PG,180,22-Feb-86,us,1,Kentucky,2008,BOS,win
+44,Brian Scalabrine,PF,241,18-Mar-78,us,6,USC,2008,BOS,win
+3,Trevor Ariza,SF,215,30-Jun-85,us,4,UCLA,2009,LAL,win
+12,Shannon Brown,SG,205,29-Nov-85,us,2,Michigan State,2009,LAL,win
+24,Kobe Bryant,SG,212,23-Aug-78,us,12,,2009,LAL,win
+17,Andrew Bynum,C,285,27-Oct-87,us,3,,2009,LAL,win
+5,Jordan Farmar,PG,180,30-Nov-86,us,2,UCLA,2009,LAL,win
+2,Derek Fisher,PG,200,9-Aug-74,us,12,Little Rock,2009,LAL,win
+16,Pau Gasol,C,250,6-Jul-80,es,7,,2009,LAL,win
+28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,4,,2009,LAL,win
+31,Chris Mihm,C,265,16-Jul-79,us,7,Texas,2009,LAL,win
+6,Adam Morrison,SF,205,19-Jul-84,us,1,Gonzaga,2009,LAL,win
+7,Lamar Odom,PF,220,6-Nov-79,us,9,Rhode Island,2009,LAL,win
+21,Josh Powell,PF,225,25-Jan-83,us,3,NC State,2009,LAL,win
+10,Vladimir Radmanović,SF,227,19-Nov-80,ba,7,,2009,LAL,win
+18,Sasha Vujačić,SG,195,8-Mar-84,si,4,,2009,LAL,win
+4,Luke Walton,SF,235,28-Mar-80,us,5,Arizona,2009,LAL,win
+9,Sun Yue,SG,205,6-Nov-85,cn,R,,2009,LAL,win
+12,Shannon Brown,SG,205,29-Nov-85,us,3,Michigan State,2010,LAL,win
+24,Kobe Bryant,SG,212,23-Aug-78,us,13,,2010,LAL,win
+17,Andrew Bynum,C,285,27-Oct-87,us,4,,2010,LAL,win
+1,Jordan Farmar,PG,180,30-Nov-86,us,3,UCLA,2010,LAL,win
+2,Derek Fisher,PG,200,9-Aug-74,us,13,Little Rock,2010,LAL,win
+16,Pau Gasol,C,250,6-Jul-80,es,8,,2010,LAL,win
+28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,5,,2010,LAL,win
+6,Adam Morrison,SF,205,19-Jul-84,us,2,Gonzaga,2010,LAL,win
+7,Lamar Odom,PF,220,6-Nov-79,us,10,Rhode Island,2010,LAL,win
+21,Josh Powell,PF,225,25-Jan-83,us,4,NC State,2010,LAL,win
+18,Sasha Vujačić,SG,195,8-Mar-84,si,5,,2010,LAL,win
+4,Luke Walton,SF,235,28-Mar-80,us,6,Arizona,2010,LAL,win
+37,Metta World Peace,SF,260,13-Nov-79,us,10,St. John's,2010,LAL,win
+8,Alexis Ajinça,C,248,6-May-88,fr,2,,2011,DAL,win
+11,J.J. Barea,PG,180,26-Jun-84,pr,4,Northeastern University,2011,DAL,win
+3,Rodrigue Beaubois,PG,170,24-Feb-88,gp,1,,2011,DAL,win
+13,Corey Brewer,SG,186,5-Mar-86,us,3,Florida,2011,DAL,win
+4,Caron Butler,SF,228,13-Mar-80,us,8,UConn,2011,DAL,win
+35,Brian Cardinal,SF,245,2-May-77,us,10,Purdue,2011,DAL,win
+6,Tyson Chandler,C,235,2-Oct-82,us,9,,2011,DAL,win
+33,Brendan Haywood,C,268,27-Nov-79,us,9,UNC,2011,DAL,win
+20,Dominique Jones,SG,215,15-Oct-88,us,R,South Florida,2011,DAL,win
+2,Jason Kidd,PG,205,23-Mar-73,us,16,California,2011,DAL,win
+28,Ian Mahinmi,C,262,5-Nov-86,fr,2,,2011,DAL,win
+0,Shawn Marion,SF,220,7-May-78,us,11,UNLV,2011,DAL,win
+21,Steve Novak,SF,225,13-Jun-83,us,4,Marquette,2011,DAL,win
+41,Dirk Nowitzki,PF,245,19-Jun-78,de,12,,2011,DAL,win
+7,Sasha Pavlović,SF,220,15-Nov-83,me,7,,2011,DAL,win
+92,DeShawn Stevenson,SG,210,3-Apr-81,us,10,,2011,DAL,win
+16,Peja Stojaković,SF,229,9-Jun-77,hr,12,,2011,DAL,win
+31,Jason Terry,SG,185,15-Sep-77,us,11,Arizona,2011,DAL,win
+50,Joel Anthony,C,245,9-Aug-82,ca,4,UNLV,2012,MIA,win
+31,Shane Battier,SF,220,9-Sep-78,us,10,Duke,2012,MIA,win
+1,Chris Bosh,PF,235,24-Mar-84,us,8,Georgia Tech,2012,MIA,win
+15,Mario Chalmers,PG,190,19-May-86,us,3,Kansas,2012,MIA,win
+30,Norris Cole,PG,175,13-Oct-88,us,R,Cleveland State University,2012,MIA,win
+34,Eddy Curry,C,295,5-Dec-82,us,9,,2012,MIA,win
+32,Mickell Gladness,PF,220,26-Jul-86,us,R,Alabama A&M University,2012,MIA,win
+14,Terrel Harris,SG,190,10-Aug-87,us,R,Oklahoma State,2012,MIA,win
+40,Udonis Haslem,PF,235,9-Jun-80,us,8,Florida,2012,MIA,win
+5,Juwan Howard,PF,240,7-Feb-73,us,17,Michigan,2012,MIA,win
+6,LeBron James,SF,250,30-Dec-84,us,8,,2012,MIA,win
+22,James Jones,SG,218,4-Oct-80,us,8,Miami (FL),2012,MIA,win
+13,Mike Miller,SG,218,19-Feb-80,us,11,Florida,2012,MIA,win
+45,Dexter Pittman,C,308,2-Mar-88,us,1,Texas,2012,MIA,win
+21,Ronny Turiaf,C,249,13-Jan-83,mq,6,Gonzaga,2012,MIA,win
+3,Dwyane Wade,SG,220,17-Jan-82,us,8,Marquette,2012,MIA,win
+34,Ray Allen,SG,205,20-Jul-75,us,16,UConn,2013,MIA,win
+11,Chris Andersen,C,245,7-Jul-78,us,10,Blinn College,2013,MIA,win
+50,Joel Anthony,C,245,9-Aug-82,ca,5,UNLV,2013,MIA,win
+31,Shane Battier,SF,220,9-Sep-78,us,11,Duke,2013,MIA,win
+1,Chris Bosh,C,235,24-Mar-84,us,9,Georgia Tech,2013,MIA,win
+15,Mario Chalmers,PG,190,19-May-86,us,4,Kansas,2013,MIA,win
+30,Norris Cole,PG,175,13-Oct-88,us,1,Cleveland State University,2013,MIA,win
+55,Josh Harrellson,C,275,12-Feb-89,us,1,Kentucky,2013,MIA,win
+14,Terrel Harris,SG,190,10-Aug-87,us,1,Oklahoma State,2013,MIA,win
+40,Udonis Haslem,PF,235,9-Jun-80,us,9,Florida,2013,MIA,win
+5,Juwan Howard,PF,240,7-Feb-73,us,18,Michigan,2013,MIA,win
+6,LeBron James,PF,250,30-Dec-84,us,9,,2013,MIA,win
+22,James Jones,SF,218,4-Oct-80,us,9,Miami (FL),2013,MIA,win
+9,Rashard Lewis,PF,215,8-Aug-79,us,14,,2013,MIA,win
+13,Mike Miller,SF,218,19-Feb-80,us,12,Florida,2013,MIA,win
+45,Dexter Pittman,C,308,2-Mar-88,us,2,Texas,2013,MIA,win
+24,Jarvis Varnado,PF,230,1-Mar-88,us,R,Mississippi State,2013,MIA,win
+3,Dwyane Wade,SG,220,17-Jan-82,us,9,Marquette,2013,MIA,win
+11,Jeff Ayres,PF,240,29-Apr-87,us,3,Arizona State,2014,SAS,win
+16,Aron Baynes,C,260,9-Dec-86,nz,1,Washington State,2014,SAS,win
+3,Marco Belinelli,SF,220,25-Mar-86,it,6,,2014,SAS,win
+15,Matt Bonner,PF,235,5-Apr-80,us,9,Florida,2014,SAS,win
+1,Shannon Brown,SG,205,29-Nov-85,us,7,Michigan State,2014,SAS,win
+23,Austin Daye,SF,220,5-Jun-88,us,4,Gonzaga,2014,SAS,win
+25,Nando De Colo,SF,200,23-Jun-87,fr,1,,2014,SAS,win
+33,Boris Diaw,PF,250,16-Apr-82,fr,10,,2014,SAS,win
+21,Tim Duncan,C,250,25-Apr-76,vi,16,Wake Forest,2014,SAS,win
+20,Manu Ginóbili,SG,205,28-Jul-77,ar,11,,2014,SAS,win
+4,Danny Green,SG,215,22-Jun-87,us,4,UNC,2014,SAS,win
+7,Damion James,SF,225,7-Oct-87,us,3,Texas,2014,SAS,win
+7,Othyus Jeffers,SG,200,5-Aug-85,us,2,"University of Illinois at Chicago, Robert Morris University (IL)",2014,SAS,win
+5,Cory Joseph,SG,200,20-Aug-91,ca,2,Texas,2014,SAS,win
+2,Kawhi Leonard,SF,225,29-Jun-91,us,2,San Diego State,2014,SAS,win
+8,Patty Mills,PG,180,11-Aug-88,au,4,Saint Mary's,2014,SAS,win
+9,Tony Parker,PG,185,17-May-82,be,12,,2014,SAS,win
+22,Tiago Splitter,C,245,1-Jan-85,br,3,,2014,SAS,win
+24,Malcolm Thomas,PF,225,8-Nov-88,us,2,"Pepperdine, San Diego State",2014,SAS,win
+19,Leandro Barbosa,SG,194,28-Nov-82,br,11,,2015,GSW,win
+40,Harrison Barnes,SF,225,30-May-92,us,2,UNC,2015,GSW,win
+12,Andrew Bogut,C,260,28-Nov-84,au,9,Utah,2015,GSW,win
+30,Stephen Curry,PG,185,14-Mar-88,us,5,Davidson,2015,GSW,win
+31,Festus Ezeli,C,255,21-Oct-89,ng,1,Vanderbilt,2015,GSW,win
+23,Draymond Green,PF,230,4-Mar-90,us,2,Michigan State,2015,GSW,win
+7,Justin Holiday,SG,180,5-Apr-89,us,1,Washington,2015,GSW,win
+9,Andre Iguodala,SF,215,28-Jan-84,us,10,Arizona,2015,GSW,win
+1,Ognjen Kuzmić,C,251,16-May-90,ba,1,,2015,GSW,win
+10,David Lee,PF,245,29-Apr-83,us,9,Florida,2015,GSW,win
+34,Shaun Livingston,PG,192,11-Sep-85,us,9,,2015,GSW,win
+20,James Michael McAdoo,PF,230,4-Jan-93,us,R,UNC,2015,GSW,win
+4,Brandon Rush,SG,220,7-Jul-85,us,6,Kansas,2015,GSW,win
+5,Marreese Speights,C,255,4-Aug-87,us,6,Florida,2015,GSW,win
+11,Klay Thompson,SG,215,8-Feb-90,us,3,Washington State,2015,GSW,win
+30,Carlos Arroyo,PG,202,30-Jul-79,pr,3,Florida International University,2005,DET,lost
+1,Chauncey Billups,PG,202,25-Sep-76,us,7,Colorado,2005,DET,lost
+41,Elden Campbell,C,215,23-Jul-68,us,14,Clemson,2005,DET,lost
+44,Derrick Coleman,C,230,21-Jun-67,us,14,Syracuse,2005,DET,lost
+20,Carlos Delfino,SG,230,29-Aug-82,ar,R,,2005,DET,lost
+12,Ronald Dupree,SF,209,26-Jan-81,us,1,LSU,2005,DET,lost
+7,Anthony Goldwire,PG,182,6-Sep-71,us,6,Houston,2005,DET,lost
+8,Darvin Ham,SF,220,23-Jul-73,us,7,Texas Tech,2005,DET,lost
+32,Richard Hamilton,SG,185,14-Feb-78,us,5,UConn,2005,DET,lost
+10,Lindsey Hunter,SG,170,3-Dec-70,us,11,"Alcorn State, Jackson State University",2005,DET,lost
+5,Horace Jenkins,PG,180,14-Oct-74,us,R,William Paterson University,2005,DET,lost
+24,Antonio McDyess,PF,220,7-Sep-74,us,8,Alabama,2005,DET,lost
+31,Darko Miličić,C,250,20-Jun-85,rs,1,,2005,DET,lost
+7,Smush Parker,PG,190,1-Jun-81,us,1,Fordham,2005,DET,lost
+22,Tayshaun Prince,SF,212,28-Feb-80,us,2,Kentucky,2005,DET,lost
+3,Ben Wallace,C,240,10-Sep-74,us,8,Virginia Union University,2005,DET,lost
+36,Rasheed Wallace,PF,225,17-Sep-74,us,9,UNC,2005,DET,lost
+10,Darrell Armstrong,PG,170,22-Jun-68,us,11,Fayetteville State University,2006,DAL,lost
+13,Doug Christie,SG,200,9-May-70,us,13,Pepperdine,2006,DAL,lost
+25,Erick Dampier,C,265,14-Jul-75,us,9,Mississippi State,2006,DAL,lost
+6,Marquis Daniels,SG,200,7-Jan-81,us,2,Auburn,2006,DAL,lost
+7,DeSagana Diop,C,300,30-Jan-82,sn,4,,2006,DAL,lost
+44,Adrian Griffin,SG,217,4-Jul-74,us,6,Seton Hall,2006,DAL,lost
+34,Devin Harris,PG,185,27-Feb-83,us,1,Wisconsin,2006,DAL,lost
+5,Josh Howard,SF,210,28-Apr-80,us,2,Wake Forest,2006,DAL,lost
+28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,1,,2006,DAL,lost
+1,Rawle Marshall,SF,190,20-Feb-82,gy,R,"Ball State University, Oakland",2006,DAL,lost
+41,Dirk Nowitzki,PF,245,19-Jun-78,de,7,,2006,DAL,lost
+24,Pavel Podkolzin,C,260,15-Jan-85,ru,1,,2006,DAL,lost
+33,Josh Powell,PF,225,25-Jan-83,us,R,NC State,2006,DAL,lost
+42,Jerry Stackhouse,SG,218,5-Nov-74,us,10,UNC,2006,DAL,lost
+31,Jason Terry,PG,185,15-Sep-77,us,6,Arizona,2006,DAL,lost
+2,Keith Van Horn,SF,220,23-Oct-75,us,8,Utah,2006,DAL,lost
+6,Shannon Brown,SG,205,29-Nov-85,us,R,Michigan State,2007,CLE,lost
+1,Daniel Gibson,PG,190,27-Feb-86,us,R,Texas,2007,CLE,lost
+90,Drew Gooden,PF,250,24-Sep-81,us,4,Kansas,2007,CLE,lost
+32,Larry Hughes,SG,184,23-Jan-79,us,8,Saint Louis,2007,CLE,lost
+11,Zydrunas Ilgauskas,C,238,5-Jun-75,lt,8,,2007,CLE,lost
+23,LeBron James,SF,250,30-Dec-84,us,3,,2007,CLE,lost
+19,Damon Jones,PG,185,25-Aug-76,us,8,Houston,2007,CLE,lost
+27,Dwayne Jones,PF,250,9-Jun-83,us,1,Saint Joseph's,2007,CLE,lost
+24,Donyell Marshall,PF,218,18-May-73,us,12,UConn,2007,CLE,lost
+14,Ira Newble,SF,220,20-Jan-75,us,6,Miami University,2007,CLE,lost
+3,Sasha Pavlović,SG,220,15-Nov-83,me,3,,2007,CLE,lost
+31,Scot Pollard,C,265,12-Feb-75,us,9,Kansas,2007,CLE,lost
+20,Eric Snow,PG,190,24-Apr-73,us,11,Michigan State,2007,CLE,lost
+17,Anderson Varejão,C,273,28-Sep-82,br,2,,2007,CLE,lost
+4,David Wesley,SG,190,14-Nov-70,us,13,Baylor,2007,CLE,lost
+3,Trevor Ariza,SF,215,30-Jun-85,us,3,UCLA,2008,LAL,lost
+54,Kwame Brown,C,270,10-Mar-82,us,6,,2008,LAL,lost
+24,Kobe Bryant,SG,212,23-Aug-78,us,11,,2008,LAL,lost
+17,Andrew Bynum,C,285,27-Oct-87,us,2,,2008,LAL,lost
+43,Brian Cook,PF,234,4-Dec-80,us,4,Illinois,2008,LAL,lost
+1,Javaris Crittenton,SG,200,31-Dec-87,us,R,Georgia Tech,2008,LAL,lost
+6,Maurice Evans,SG,220,8-Nov-78,us,4,"Wichita State, Texas",2008,LAL,lost
+5,Jordan Farmar,PG,180,30-Nov-86,us,1,UCLA,2008,LAL,lost
+2,Derek Fisher,PG,200,9-Aug-74,us,11,Little Rock,2008,LAL,lost
+16,Pau Gasol,C,250,6-Jul-80,es,6,,2008,LAL,lost
+28,Didier Ilunga-Mbenga,C,245,30-Dec-80,cd,3,,2008,LAL,lost
+11,Coby Karl,SG,215,6-Mar-83,us,R,Boise State,2008,LAL,lost
+31,Chris Mihm,C,265,16-Jul-79,us,6,Texas,2008,LAL,lost
+14,Ira Newble,SF,220,20-Jan-75,us,7,Miami University,2008,LAL,lost
+7,Lamar Odom,PF,220,6-Nov-79,us,8,Rhode Island,2008,LAL,lost
+10,Vladimir Radmanović,SF,227,19-Nov-80,ba,6,,2008,LAL,lost
+21,Ronny Turiaf,C,249,13-Jan-83,mq,2,Gonzaga,2008,LAL,lost
+18,Sasha Vujačić,SG,195,8-Mar-84,si,3,,2008,LAL,lost
+4,Luke Walton,SF,235,28-Mar-80,us,4,Arizona,2008,LAL,lost
+1,Rafer Alston,PG,171,24-Jul-76,us,9,Fresno State,2009,ORL,lost
+4,Tony Battie,PF,230,11-Feb-76,us,10,Texas Tech,2009,ORL,lost
+10,Keith Bogans,SG,215,12-May-80,us,5,Kentucky,2009,ORL,lost
+34,Brian Cook,PF,234,4-Dec-80,us,5,Illinois,2009,ORL,lost
+31,Adonal Foyle,C,250,9-Mar-75,vc,11,Colgate,2009,ORL,lost
+13,Marcin Gortat,PF,240,17-Feb-84,pl,1,,2009,ORL,lost
+12,Dwight Howard,C,265,8-Dec-85,us,4,,2009,ORL,lost
+8,Anthony Johnson,PG,190,2-Oct-74,us,11,College of Charleston,2009,ORL,lost
+11,Courtney Lee,SG,215,3-Oct-85,us,R,Western Kentucky,2009,ORL,lost
+9,Rashard Lewis,PF,215,8-Aug-79,us,10,,2009,ORL,lost
+10,Tyronn Lue,PG,175,3-May-77,us,10,Nebraska,2009,ORL,lost
+14,Jameer Nelson,PG,190,9-Feb-82,us,4,Saint Joseph's,2009,ORL,lost
+20,Mickaël Piétrus,SG,215,7-Feb-82,gp,5,,2009,ORL,lost
+7,J.J. Redick,SG,200,24-Jun-84,us,2,Duke,2009,ORL,lost
+32,Jeremy Richardson,SF,185,11-Feb-84,us,2,Delta State University,2009,ORL,lost
+15,Hedo Türkoğlu,SF,220,19-Mar-79,tr,8,,2009,ORL,lost
+20,Ray Allen,SG,205,20-Jul-75,us,13,UConn,2010,BOS,lost
+42,Tony Allen,SG,213,11-Jan-82,us,5,"Butler County Community College, Oklahoma State",2010,BOS,lost
+7,Marquis Daniels,SF,200,7-Jan-81,us,6,Auburn,2010,BOS,lost
+11,Glen Davis,PF,289,1-Jan-86,us,2,LSU,2010,BOS,lost
+40,Michael Finley,SF,215,6-Mar-73,us,14,Wisconsin,2010,BOS,lost
+5,Kevin Garnett,PF,240,19-May-76,us,14,,2010,BOS,lost
+4,J.R. Giddens,SF,215,13-Feb-85,us,1,"Kansas, New Mexico",2010,BOS,lost
+50,Eddie House,PG,180,14-May-78,us,9,Arizona State,2010,BOS,lost
+26,Lester Hudson,PG,190,7-Aug-84,us,R,University of Tennessee at Martin,2010,BOS,lost
+40,Oliver Lafayette,SG,190,6-May-84,us,R,Houston,2010,BOS,lost
+12,Marcus Landry,SF,230,1-Nov-85,us,R,Wisconsin,2010,BOS,lost
+43,Kendrick Perkins,C,270,10-Nov-84,us,6,,2010,BOS,lost
+34,Paul Pierce,SF,235,13-Oct-77,us,11,Kansas,2010,BOS,lost
+4,Nate Robinson,PG,180,31-May-84,us,4,Washington,2010,BOS,lost
+9,Rajon Rondo,PG,180,22-Feb-86,us,3,Kentucky,2010,BOS,lost
+44,Brian Scalabrine,PF,241,18-Mar-78,us,8,USC,2010,BOS,lost
+12,Henry Walker,SF,220,9-Oct-87,us,1,Kansas State,2010,BOS,lost
+30,Rasheed Wallace,C,225,17-Sep-74,us,14,UNC,2010,BOS,lost
+13,Shelden Williams,PF,250,21-Oct-83,us,3,Duke,2010,BOS,lost
+50,Joel Anthony,C,245,9-Aug-82,ca,3,UNLV,2011,MIA,lost
+8,Carlos Arroyo,PG,202,30-Jul-79,pr,8,Florida International University,2011,MIA,lost
+0,Mike Bibby,PG,190,13-May-78,us,12,Arizona,2011,MIA,lost
+1,Chris Bosh,PF,235,24-Mar-84,us,7,Georgia Tech,2011,MIA,lost
+15,Mario Chalmers,PG,190,19-May-86,us,2,Kansas,2011,MIA,lost
+25,Erick Dampier,C,265,14-Jul-75,us,14,Mississippi State,2011,MIA,lost
+40,Udonis Haslem,PF,235,9-Jun-80,us,7,Florida,2011,MIA,lost
+55,Eddie House,SG,180,14-May-78,us,10,Arizona State,2011,MIA,lost
+5,Juwan Howard,PF,240,7-Feb-73,us,16,Michigan,2011,MIA,lost
+11,Zydrunas Ilgauskas,C,238,5-Jun-75,lt,12,,2011,MIA,lost
+6,LeBron James,SF,250,30-Dec-84,us,7,,2011,MIA,lost
+22,James Jones,SF,218,4-Oct-80,us,7,Miami (FL),2011,MIA,lost
+21,Jamaal Magloire,C,259,21-May-78,ca,10,Kentucky,2011,MIA,lost
+13,Mike Miller,SG,218,19-Feb-80,us,10,Florida,2011,MIA,lost
+45,Dexter Pittman,C,308,2-Mar-88,us,R,Texas,2011,MIA,lost
+42,Jerry Stackhouse,SG,218,5-Nov-74,us,15,UNC,2011,MIA,lost
+3,Dwyane Wade,SG,220,17-Jan-82,us,7,Marquette,2011,MIA,lost
+45,Cole Aldrich,C,250,31-Oct-88,us,1,Kansas,2012,OKC,lost
+4,Nick Collison,PF,255,26-Oct-80,us,7,Kansas,2012,OKC,lost
+14,Daequan Cook,SG,205,28-Apr-87,us,4,Ohio State,2012,OKC,lost
+35,Kevin Durant,SF,240,29-Sep-88,us,4,Texas,2012,OKC,lost
+37,Derek Fisher,PG,200,9-Aug-74,us,15,Little Rock,2012,OKC,lost
+13,James Harden,SG,220,26-Aug-89,us,2,Arizona State,2012,OKC,lost
+11,Lazar Hayward,SF,225,26-Nov-86,us,1,Marquette,2012,OKC,lost
+9,Serge Ibaka,PF,235,18-Sep-89,cg,2,,2012,OKC,lost
+7,Royal Ivey,SG,200,20-Dec-81,us,7,Texas,2012,OKC,lost
+15,Reggie Jackson,PG,208,16-Apr-90,it,R,Boston College,2012,OKC,lost
+6,Eric Maynor,PG,175,11-Jun-87,us,2,VCU,2012,OKC,lost
+8,Nazr Mohammed,C,221,5-Sep-77,us,13,Kentucky,2012,OKC,lost
+5,Kendrick Perkins,C,270,10-Nov-84,us,8,,2012,OKC,lost
+33,Ryan Reid,PF,232,30-Oct-86,us,R,Florida State,2012,OKC,lost
+2,Thabo Sefolosha,SG,215,2-May-84,ch,5,,2012,OKC,lost
+0,Russell Westbrook,PG,200,12-Nov-88,us,3,UCLA,2012,OKC,lost
+11,James Anderson,SF,213,25-Mar-89,us,2,Oklahoma State,2013,SAS,lost
+16,Aron Baynes,C,260,9-Dec-86,nz,R,Washington State,2013,SAS,lost
+45,DeJuan Blair,PF,270,22-Apr-89,us,3,Pitt,2013,SAS,lost
+15,Matt Bonner,PF,235,5-Apr-80,us,8,Florida,2013,SAS,lost
+25,Nando De Colo,SG,200,23-Jun-87,fr,R,,2013,SAS,lost
+33,Boris Diaw,PF,250,16-Apr-82,fr,9,,2013,SAS,lost
+21,Tim Duncan,C,250,25-Apr-76,vi,15,Wake Forest,2013,SAS,lost
+20,Manu Ginóbili,SG,205,28-Jul-77,ar,10,,2013,SAS,lost
+4,Danny Green,SG,215,22-Jun-87,us,3,UNC,2013,SAS,lost
+3,Stephen Jackson,SF,218,5-Apr-78,us,12,Butler County Community College,2013,SAS,lost
+5,Cory Joseph,PG,200,20-Aug-91,ca,1,Texas,2013,SAS,lost
+2,Kawhi Leonard,SF,225,29-Jun-91,us,1,San Diego State,2013,SAS,lost
+1,Tracy McGrady,SF,210,24-May-79,us,15,,2013,SAS,lost
+8,Patty Mills,PG,180,11-Aug-88,au,3,Saint Mary's,2013,SAS,lost
+14,Gary Neal,SG,210,3-Oct-84,us,2,"La Salle, Towson University",2013,SAS,lost
+9,Tony Parker,PG,185,17-May-82,be,11,,2013,SAS,lost
+22,Tiago Splitter,PF,245,1-Jan-85,br,2,,2013,SAS,lost
+34,Ray Allen,SG,205,20-Jul-75,us,17,UConn,2014,MIA,lost
+11,Chris Andersen,C,245,7-Jul-78,us,11,Blinn College,2014,MIA,lost
+50,Joel Anthony,C,245,9-Aug-82,ca,6,UNLV,2014,MIA,lost
+31,Shane Battier,SF,220,9-Sep-78,us,12,Duke,2014,MIA,lost
+8,Michael Beasley,SF,235,9-Jan-89,us,5,Kansas State,2014,MIA,lost
+1,Chris Bosh,C,235,24-Mar-84,us,10,Georgia Tech,2014,MIA,lost
+15,Mario Chalmers,PG,190,19-May-86,us,5,Kansas,2014,MIA,lost
+30,Norris Cole,PG,175,13-Oct-88,us,2,Cleveland State University,2014,MIA,lost
+0,Toney Douglas,PG,195,16-Mar-86,us,4,"Auburn, Florida State",2014,MIA,lost
+7,Justin Hamilton,C,260,1-Apr-90,us,R,"Iowa State, LSU",2014,MIA,lost
+40,Udonis Haslem,PF,235,9-Jun-80,us,10,Florida,2014,MIA,lost
+6,LeBron James,PF,250,30-Dec-84,us,10,,2014,MIA,lost
+22,James Jones,SF,218,4-Oct-80,us,10,Miami (FL),2014,MIA,lost
+9,Rashard Lewis,SF,215,8-Aug-79,us,15,,2014,MIA,lost
+14,DeAndre Liggins,SG,209,31-Mar-88,us,2,Kentucky,2014,MIA,lost
+21,Roger Mason,SG,200,10-Sep-80,us,9,Virginia,2014,MIA,lost
+20,Greg Oden,C,250,22-Jan-88,us,2,Ohio State,2014,MIA,lost
+3,Dwyane Wade,SG,220,17-Jan-82,us,10,Marquette,2014,MIA,lost
+89,Lou Amundson,PF,220,7-Dec-82,us,8,UNLV,2015,CLE,lost
+5,Will Cherry,PG,185,8-Feb-91,us,R,Montana,2015,CLE,lost
+8,Matthew Dellavedova,SG,200,8-Sep-90,au,1,Saint Mary's,2015,CLE,lost
+12,Joe Harris,SG,220,6-Sep-91,us,R,Virginia,2015,CLE,lost
+33,Brendan Haywood,C,268,27-Nov-79,us,12,UNC,2015,CLE,lost
+2,Kyrie Irving,PG,195,23-Mar-92,au,3,Duke,2015,CLE,lost
+23,LeBron James,SF,250,30-Dec-84,us,11,,2015,CLE,lost
+1,James Jones,SF,218,4-Oct-80,us,11,Miami (FL),2015,CLE,lost
+53,Alex Kirk,C,245,14-Nov-91,us,R,New Mexico,2015,CLE,lost
+0,Kevin Love,PF,251,7-Sep-88,us,6,UCLA,2015,CLE,lost
+31,Shawn Marion,SF,220,7-May-78,us,15,UNLV,2015,CLE,lost
+18,Mike Miller,SF,218,19-Feb-80,us,14,Florida,2015,CLE,lost
+20,Timofey Mozgov,C,275,16-Jul-86,ru,4,,2015,CLE,lost
+3,Kendrick Perkins,C,270,10-Nov-84,us,11,,2015,CLE,lost
+21,A.J. Price,PG,181,7-Oct-86,us,5,UConn,2015,CLE,lost
+4,Iman Shumpert,SG,215,26-Jun-90,us,3,Georgia Tech,2015,CLE,lost
+5,J.R. Smith,SG,225,9-Sep-85,us,10,,2015,CLE,lost
+13,Tristan Thompson,PF,254,13-Mar-91,ca,3,Texas,2015,CLE,lost
+17,Anderson Varejão,C,273,28-Sep-82,br,10,,2015,CLE,lost
+3,Dion Waiters,SG,215,10-Dec-91,us,2,Syracuse,2015,CLE,lost
