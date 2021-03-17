@@ -1,0 +1,26 @@
+CREATE TABLE draft(
+	id INT Primary Key,
+	team TEXT NOT NULL,
+	player TEXT NOT NULL,
+	college TEXT NOT NULL,
+	play_yrs TEXT,
+	games TEXT,
+	year INT NOT NULL,
+	pick INT NOT NULL
+	
+);
+
+CREATE TABLE finals_roster (
+	No INT,
+	Player TEXT,	
+	Pos	TEXT,
+	Ht TEXT,
+	Wt INT,
+	Birth_Date TEXT,
+	Nationality	TEXT,
+	Exp	TEXT,
+	College	TEXT,
+	Year INT,
+	Team TEXT,
+	Result TEXT
+);
