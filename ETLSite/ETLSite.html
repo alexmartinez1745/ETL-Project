@@ -17,12 +17,32 @@
         <div class="col-md-12">
             <h3><b>Project Report</b></h3>
             <hr>
+            <p>The data we utilized was from the following sources: 
+                Data.world, basketball-reference.com & Kaggle.  
+                The data we had access to was in csv format for from Kaggle and Data.world.  
+                On basketball-reference.com there was the option of gathering data via csv but we needed 
+                data from several years and the csv’s didn’t provide the team or year.  Because of this we 
+                wrote a for loop that built a custom url for each year (2005-2015) for each finals team and 
+                grabbed the table, added team and year and created a dataframe for the winners and losers. 
+                Then both dataframes were merged into one.
+                This dataframe was then exported to a csv and a database was built in
+                postgresql with the data as well as the draft data we gathered.  
+                Once in the the database we created a jupyter notebook to transform the data.</p>
 
         </div>
-        <div class="col-md-6">
-            <img src="../Resources/averagedraft.png" alt="average draft">
-
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../Resources/averagedraft.png" alt="average draft">
+    
+            </div>
         </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../Resources/distributionrank.png" alt="distribution rank">
+                </div>
+        </div>
+                    
+
     </div> 
     <!-- <h3><b>Project Report</b></h3>
     <p><a> href="" </a></p>
