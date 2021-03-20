@@ -14,7 +14,7 @@
 }
 
 .jumbotron {
-    background-color: royalblue;
+    background-color: steelblue;
     color: white !important;
     font-style: oblique;
 }
@@ -26,4 +26,9 @@ body {
 .container {
     background-color: white;
     padding: 50px;
+}
+
+#barchart {
+    margin-left: 150px;
+    width: 100%;
 }
