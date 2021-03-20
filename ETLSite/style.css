@@ -1,0 +1,29 @@
+#navimage img {
+    display: block;
+    width: 100px;
+    height: 40px;
+    margin: auto;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    background-color:gold;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.jumbotron {
+    background-color: royalblue;
+    color: white !important;
+    font-style: oblique;
+}
+
+body {
+    background-image: url("../Resources/trophy_image_bg.jfif");
+}
+
+.container {
+    background-color: white;
+    padding: 50px;
+}

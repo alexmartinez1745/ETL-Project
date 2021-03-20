@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>NBA Finals Project</title>
+    <title>Distribution Rank</title>
 </head>
 <body>
      <!-- Start of navbar and navbrand -->
      <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="#"> NBA Finals Project</a>
+        <a class="navbar-brand" href="ETLSite.html"> NBA Finals Project</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,31 +47,14 @@
     <br>
 
     <div class="container">
-        <div class="jumbotron text-center">
-            <h1 class="display-4"><strong>NBA Draft Success from 2005-2015</strong></h1>
-            <hr>
-            <p>Created by Altricia Latimer, Alex Martinez, Stephanie Rivas, and Howard Mayorga</p>
-        </div>
-        <div class="col-md-12">
-            <h3><b>Project Report</b></h3>
-            <hr>
-            <p>The data we utilized was from the following sources: 
-                Data.world, basketball-reference.com & Kaggle.  
-                The data we had access to was in csv format for from Kaggle and Data.world.  
-                On basketball-reference.com there was the option of gathering data via csv but we needed 
-                data from several years and the csv’s didn’t provide the team or year.  Because of this we 
-                wrote a for loop that built a custom url for each year (2005-2015) for each finals team and 
-                grabbed the table, added team and year and created a dataframe for the winners and losers. 
-                Then both dataframes were merged into one.
-                This dataframe was then exported to a csv and a database was built in
-                postgresql with the data as well as the draft data we gathered.  
-                Once in the the database we created a jupyter notebook to transform the data.</p>
-
-        </div>           
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../Resources/distributionrank.png" alt="distribution rank">
+                </div>
+        </div>    
 
     </div> 
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 </html>
-
