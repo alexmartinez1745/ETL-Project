@@ -32,3 +32,13 @@ body {
     margin-left: 150px;
     width: 100%;
 }
+
+#boxplot {
+    margin-left: 150px;
+    width: 130%;
+}
+
+#draft_picks {
+    display: block;
+    width: inherit;
+}
