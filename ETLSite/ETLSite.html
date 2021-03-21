@@ -60,6 +60,7 @@
         <div class="col-md-12">
             <h3><b>Project Report</b></h3>
             <hr>
+            <h5><b>Extract</b></h5>
             <p>The data we utilized was from the following sources: 
                 Data.world, basketball-reference.com & Kaggle.  
                 The data we had access to was in csv format for from Kaggle and Data.world.  
@@ -67,10 +68,20 @@
                 data from several years and the csv’s didn’t provide the team or year.  Because of this we 
                 wrote a for loop that built a custom url for each year (2005-2015) for each finals team and 
                 grabbed the table, added team and year and created a dataframe for the winners and losers. 
-                Then both dataframes were merged into one.
-                This dataframe was then exported to a csv and a database was built in
+                </p>
+            <h5><b>Transform</b></h5>    
+            <p>Then both dataframes were merged into one.  
+              This dataframe was then exported to a csv and a database was built in
                 postgresql with the data as well as the draft data we gathered.  
                 Once in the the database we created a jupyter notebook to transform the data.</p>
+      
+            <div class="col-md-12">    
+              <img src="../ERD_nba.png" class="img-fluid" alt="ERD graphic">
+            </div>
+            <h5><b>Load</b></h5>    
+            <p>With all the data and visualizations created we built a webpage using bootstrap.
+
+            </p>
 
         </div>           
 
