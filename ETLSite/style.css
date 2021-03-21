@@ -46,3 +46,14 @@ body {
     margin-left: 150px;
     width: 130%;
 }
+
+/* Adding media for smaller screens (mobile friendly) */
+@media(max-width:767px) {
+    #barchart {
+        margin-left: 0px;
+    }
+
+    #boxplot {
+        margin-left: 0px;
+        width: 100%;
+    }
