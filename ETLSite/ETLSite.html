@@ -6,46 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Distribution Rank</title>
+    <title>NBA Finals Project</title>
 </head>
+
 <body>
-     <!-- Start of navbar and navbrand -->
-     <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="ETLSite.html"> NBA Finals Project</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+  <!-- Start of navbar and navbrand -->
+  <nav class="navbar navbar-expand-md navbar-light bg-light">
+     <a class="navbar-brand" href="ETLSite.html"> NBA Finals Project</a>
+     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon"></span>
+     </button>
 
-        <!-- Add finals image next to nav brand -->
-        <div class="nav" id="navimage">
-            <img src="../Resources/small_nba_logo.png"> 
-        </div>
-      
-        <!-- Dropdown menu ordered to the right -->
-        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Data Used
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="finals_matches.html">Finals Matches</a>
-                <a class="dropdown-item" href="finals_rosters.html">Finals Rosters</a>
-                <a class="dropdown-item" href="draft_picks.html">Draft Selections</a>
-            </li>
+     <!-- Add finals image next to nav brand -->
+     <div class="nav" id="navimage">
+         <img src="../Resources/small_nba_logo.png"> 
+     </div>
+   
+     <!-- Dropdown menu ordered to the right -->
+     <div class="navbar-collapse collapse w-100 order-3 dual-collapse2" id="navbarSupportedContent">
+       <ul class="navbar-nav ml-auto">
+         <li class="nav-item dropdown">
+           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+             Data Used
+           </a>
+           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+             <a class="dropdown-item" href="finals_matches.html">Finals Matches</a>
+             <a class="dropdown-item" href="finals_rosters.html">Finals Rosters</a>
+             <a class="dropdown-item" href="draft_picks.html">Draft Selections</a>
+         </li>
 
-            <!-- Draft and final roster links -->
-            <li class="nav-item">
-              <a class="nav-link" href="avg_draft.html">AVG_Draft<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="distribution.html">Distribution Rank</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    <br>
+         <!-- Draft and final roster links -->
+         <li class="nav-item">
+           <a class="nav-link" href="avg_draft.html">AVG_Draft<span class="sr-only">(current)</span></a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="distribution.html">Distribution</a>
+         </li>
+         <li class="nav-item">
+             <a class="nav-link" href="finals_apperances.html">Apperances</a>
+         </li>
+       </ul>
+     </div>
+   </nav>
+  <br>
 
+    <!-- Adding project report with jumbotron -->
     <div class="container">
         <div class="jumbotron text-center">
             <h1 class="display-4"><strong>NBA Draft Success from 2005-2015</strong></h1>
@@ -71,6 +76,7 @@
 
     </div> 
 </body>
+<!-- Importing scripts from bootstrap -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 </html>

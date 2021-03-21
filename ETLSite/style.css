@@ -1,3 +1,8 @@
+/* ############################################## */
+        /* CSS Styling for HTML webpage */
+/* ############################################## */
+
+/* Adding image display properties to small image in navbar */
 #navimage img {
     display: block;
     width: 100px;
@@ -5,7 +10,7 @@
     margin: auto;
 }
 
-
+/* Styling navbar logo */
 .navbar-brand {
     font-weight: bold;
     background-color:gold;
@@ -13,17 +18,42 @@
     border-radius: 5px;
 }
 
+/* Styling project homepage */
 .jumbotron {
-    background-color: royalblue;
+    background-color: steelblue;
     color: white !important;
     font-style: oblique;
 }
 
+/* Adding image to html background */
 body {
     background-image: url("../Resources/trophy_image_bg.jfif");
 }
 
+/* Space and color to floating container */
 .container {
     background-color: white;
     padding: 50px;
 }
+
+/* Centering graphs in middle of containers */
+#barchart {
+    margin-left: 150px;
+    width: 100%;
+}
+
+#boxplot {
+    margin-left: 150px;
+    width: 130%;
+}
+
+/* Adding media for smaller screens (mobile friendly) */
+@media(max-width:767px) {
+    #barchart {
+        margin-left: 0px;
+    }
+
+    #boxplot {
+        margin-left: 0px;
+        width: 100%;
+    }

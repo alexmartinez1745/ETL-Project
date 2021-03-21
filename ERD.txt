@@ -1,0 +1,39 @@
+
+
+draft
+-
+id Int
+team TEXT PK
+player TEXT FK >- finals_roster.Player
+college TEXT 
+play_yrs TEXT
+games TEXT
+year INT FK >- finals_roster.Year
+pick INT
+
+finals_roster
+-
+No INT
+Player TEXT
+Pos TEXT
+Ht INT
+Wt INT
+Birthdate TEXT
+Nationality TEXT
+Exp TEXT
+College TEXT
+Year INT PK FK >- finals_match_up.Year
+Team TEXT PK FK >- finals_match_up.Lg
+Result TEXT
+
+finals_match_up
+-
+Year int PK
+Lg TEXT
+Champion TEXT
+Runner-Up TEXT
+Finals_MVP TEXT
+Points TEXT
+Rebounds TEXT
+Assists TEXT
+Win_Shares TEXT
